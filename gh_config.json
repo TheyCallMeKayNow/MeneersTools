@@ -1,0 +1,29 @@
+{
+  "repos": [
+    {
+      "owner": "pnwparksfan",
+      "repo": "gameconfig",
+      "name": "gameconfig"
+    },
+    {
+      "owner": "scripthookvdotnet",
+      "repo": "scripthookvdotnet-nightly",
+      "name": "ScriptHookVDotNet"
+    },
+    {
+      "owner": "itsjustcurtis",
+      "repo": "MenyooSP",
+      "name": "Menyoo"
+    },
+    {
+      "owner": "TheyCallMeKayNow",
+      "repo": "Testing",
+      "name": "TheyCallMeKayNow/Testing"
+    },
+    {
+      "owner": "alexguirre",
+      "repo": "RAGENativeUI",
+      "name": "RAGENativeUI"
+    }
+  ]
+}

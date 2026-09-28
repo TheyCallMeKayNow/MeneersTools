@@ -1,0 +1,70 @@
+{
+  "channel_id": "1553676870686613555",
+  "check_interval_s": 300,
+  "plugins": [
+    {
+      "id": "7792",
+      "name": "LSPD: First Response"
+    },
+    {
+      "id": "37390",
+      "name": "686 Callouts"
+    },
+    {
+      "id": "23995",
+      "name": "SuperCallouts"
+    },
+    {
+      "id": "24437",
+      "name": "SuperEvents"
+    },
+    {
+      "id": "27453",
+      "name": "Deadly Weapons"
+    },
+    {
+      "id": "52970",
+      "name": "LSPD: First Response (Enhanced Preview)"
+    },
+    {
+      "id": "52191",
+      "name": "Policing Redefined"
+    },
+    {
+      "id": "13865",
+      "name": "Emergency Lightning System"
+    },
+    {
+      "id": "36665",
+      "name": "Los Santos RED"
+    },
+    {
+      "id": "20002",
+      "name": "XScanner"
+    },
+    {
+      "id": "20730",
+      "name": "UnitedCallouts"
+    },
+    {
+      "id": "47079",
+      "name": "MCCallouts"
+    },
+    {
+      "id": "43066",
+      "name": "TAGsCallouts"
+    },
+    {
+      "id": "51062",
+      "name": "TACSIMS Casual Callouts"
+    },
+    {
+      "id": "13907",
+      "name": "More Radio Chatter"
+    },
+    {
+      "id": "52623",
+      "name": "Qwaned Callouts"
+    }
+  ]
+}
